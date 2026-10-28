@@ -90,6 +90,8 @@ The selected model must be assessed using various criteria and should be confirm
 
 The trained model must be visually represented using any frontend technology.
 
+<img width="929" height="490" alt="image" src="https://github.com/user-attachments/assets/42d1e095-67f6-4760-b643-6e1e4caa89f7" />
+
 *F. Results*
 
 **Evaluation metrics:**
@@ -102,15 +104,18 @@ $$P(y = i) = \frac{e^{z_{i}}}{\sum_{j = 1}^{C}e^{z_{j}}}$$
 
 $$Accuracy = (TP + TN)/(TP + TN + FP + FN) \times 100$$
 
-![](media/image1.png){width="2.6279068241469816in" height="1.5581397637795276in"}
+<img width="394" height="234" alt="image" src="https://github.com/user-attachments/assets/e6f29bbc-5c1c-40e6-bdba-05b78dc4121f" />
+
 
 **Loss:** Proportion of incorrectly classified samples
 
-![](media/image2.png){width="2.8906255468066493in" height="1.536545275590551in"}
+<img width="434" height="230" alt="image" src="https://github.com/user-attachments/assets/8ad0cfb1-90bc-4cfa-a86f-35aa5c6ad3bd" />
+
 
 **Confusion Matrix:** evaluates the by comparing predicted vs actual .
 
-![](media/image3.png){width="2.213542213473316in" height="1.9577055993000876in"}
+<img width="332" height="294" alt="image" src="https://github.com/user-attachments/assets/ce8ba59f-f6de-4069-8459-362c6fb89086" />
+
 
 **Performance Scores:**
 
